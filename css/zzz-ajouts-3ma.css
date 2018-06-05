@@ -20772,9 +20772,9 @@ body {
 /*# sourceMappingURL=maps/styles-base-mobile.css.map */
 
 /* @override 
-	https://gourmet-m.comexposium-admin.com/theme/gourmet_mobile/css/styles-m-gourmet.css */
+	https://gourmet-m.comexposium-admin.com/theme/gourmet_git_mobile/css/styles-m-gourmet.css */
 
-/*	<link rel="stylesheet" type="text/css" href="/theme/gourmet_mobile/css/styles-m-gourmet.css">*/
+/*	<link rel="stylesheet" type="text/css" href="/theme/gourmet_git_mobile/css/styles-m-gourmet.css">*/
 
 /* ------------------------------------------------------------ *\
 	Fonts
@@ -20957,7 +20957,7 @@ body {
 }
 
 .site-banner .header {
-    background: url(/theme/gourmet_mobile/images/2018/site-banner-bg.jpg) no-repeat bottom center;
+    background: url(/theme/gourmet_git_mobile/images/2018/site-banner-bg.jpg) no-repeat bottom center;
     background-size: cover;
     padding: 15px 17px;
 /*    height: 153px;*/
@@ -20972,7 +20972,7 @@ body {
 
 /*
 .logo {
-    background: url(/theme/gourmet_mobile/images/2018/logo.png) no-repeat 0 0;
+    background: url(/theme/gourmet_git_mobile/images/2018/logo.png) no-repeat 0 0;
     width: 162px;
     height: 78px;
     background-size: 100% auto;
@@ -20986,7 +20986,7 @@ body {
 */
 
 .logo {
-	background: url(/theme/gourmet_mobile/images/2018/logo.png) no-repeat 0 0;
+	background: url(/theme/gourmet_git_mobile/images/2018/logo.png) no-repeat 0 0;
 	width: 152px;
 	height: 110px;
 	background-size: 100% auto;
@@ -21982,7 +21982,7 @@ body {
 \* ------------------------------------------------------------ */
 
 .accordion {
-    background: url(/theme/gourmet_mobile/images/2018/acc-bg.jpg) no-repeat center center;
+    background: url(/theme/gourmet_git_mobile/images/2018/acc-bg.jpg) no-repeat center center;
     background-size: cover;
     padding: 23px 0 0;
     position: relative;
