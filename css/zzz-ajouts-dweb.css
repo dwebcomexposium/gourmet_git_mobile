@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+/************COMPTE CLIENT*************/
+
+#cxpmClientAccountWidget .widget-my-selection .widget-icon>span.number, #cxpm-connect-sso-dropdown .widget-my-selection .widget-icon>span.number {
+    color: #fff;
+    font-weight: 700;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    font-size: 9px;
+    border-radius: 50%;
+    background-color: #df306c;
+    padding-left: 0;
+    position: absolute;
+    right: 3px;
+    bottom: 5px;
+    line-height: 16px;
+}
+
+div#cxpmClientAccountWidget {
+    right: 0;
+    left: auto;
+    margin-top: 38px;
+    min-width: 50px;
+    background: rgba(0,0,0,.15);
+    max-height: 40px;
+}
+
+#cxpmClientAccountWidget .widget-my-selection .cap-icon-shopping_basket:before {
+    content: ""!important;
+    background-image: url(/theme/gourmet_git_desktop/img/icons/icon-bagcompte-blanc.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    height: 29px;
+    width: 22px;
+    padding-top: 9px;
+    opacity: .7;
+    display: inline-block;
+}
+
+
+/*********MENU WIDGET COMPTE CLIENT***************/
+
+header.site-banner #widgetMobileLinkOpenCap span.cap-icon-user-circle-o {
+    vertical-align: middle;
+    display: inline-block;
+    background-image: url(/theme/gourmet_git_desktop/img/icons/icon-usercompte.svg);
+    background-repeat: no-repeat;
+    background-size: 23px;
+    width: 23px;
+    height: 23px;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    padding-right: 7px;
+    opacity: .7;
+    margin-top: -2px;
+}
+
+.mn-item-lvl-1:nth-child(1) > .mn-link:after {
+    background-color: transparent;
+}
+
+li#widgetMobileLinkOpenCap span#widgetMobileFirstnameText {
+    text-transform: capitalize;
+}
+li#widgetMobileLinkOpenCap {
+    box-shadow: #e9e8e8 0px 2px 20px 0px;
+    max-width: 80%;
+    margin: 0 auto;
+    padding-top: 18px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
