@@ -776,7 +776,7 @@ div, span {word-wrap: normal; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyp
 .site-banner .header .header-entry small {font-family: 'Flama'; font-style: normal; font-weight: 300; font-size: 11px; line-height: 20px; text-align: center; color: #FFFFFF; letter-spacing: 0; top: -6px;}
 .site-banner .quicklinks ul {display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap;}
 .site-banner .quicklinks ul li {width: 50%; display: -webkit-box; display: -ms-flexbox; display: flex;}
-.site-banner .quicklinks ul li:nth-child(1) a {background: #F7786B;}
+.site-banner .quicklinks ul li:nth-child(1) a {background: ##78ca9;}
 .site-banner .quicklinks ul li:nth-child(1) a:hover:before {-webkit-transform: scale(1.12); -ms-transform: scale(1.12); transform: scale(1.12);}
 .site-banner .quicklinks ul li:nth-child(1) a:before {content: ''; display: block; width: 20px; height: 18px; background-image: url(images/badge.svg); background-size: cover; margin-right: 11px; position: relative; -webkit-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
 .site-banner .quicklinks ul li:nth-child(2) a {background: #88B04B;}
@@ -859,12 +859,4 @@ div, span {word-wrap: normal; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyp
 .newsletter-form .nf-main-content form .nf-form-item .right-col .optin-container .nf-form-input label:after {content: ''; display: block; width: 11px; height: 7px; position: absolute; left: 5px; top: 7px; background-image: url(images/check.svg); opacity: 0;}
 
 /*# sourceMappingURL=styles-m-gourmet.css.map */
-
-
-@charset "utf-8";
-/* CSS Document */
-
-
-
-
 
