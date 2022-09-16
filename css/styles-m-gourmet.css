@@ -828,7 +828,7 @@ div, span {word-wrap: normal; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyp
 .widget-dropdown .widget-dropdown-content .empty {display: none;}
 .newsletter-form {max-width: 866px; margin: 0 auto; padding: 56px 30px 0 30px;}
 .newsletter-form .nf-main-content {padding: 0; margin: 0; background: none; color: #FFF;}
-.newsletter-form .nf-main-content .nf-title {max-width: 228px; font-family: 'Flama'; font-style: normal; font-weight: normal; font-size: 20px; line-height: 130%; text-align: center; letter-spacing: -0.01em; text-transform: uppercase; color: #FFFFFF; margin: 0 auto; padding: 0; border: none; margin-bottom: 10px;}
+.newsletter-form .nf-main-content .nf-title {max-width: 228px; font-family: 'Flama'; font-style: normal; font-weight: normal; font-size: 20px; line-height: 130%; text-align: center; letter-spacing: -0.01em; text-transform: uppercase; color: #FFFFFF; margin: 0 auto; padding: 0; border: none; margin-bottom: 1px;}
 .newsletter-form .nf-main-content form label[for="nf1"] {display: none;}
 .newsletter-form .nf-main-content form .nf-form-item {display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between;}
 .newsletter-form .nf-main-content form .nf-form-item .left-col {width: 355px;}
@@ -873,6 +873,6 @@ div, span {word-wrap: normal; -webkit-hyphens: none; -moz-hyphens: none; -ms-hyp
 .side-links a.market { background: #578CA9;}
 .side-links a.market:before { content: ""; display: block; background-image: url(images/ico-marketplace.svg); background-size: cover; width: 21px; height: 22px; margin: 0 auto 11px auto;}
 
-.site-banner .quicklinks, .bt-extranet,  {display: none; }
+.site-banner .quicklinks, .bt-extranet {display: none; }
 h2.main-title {font-family: 'Flama'; font-style: normal; font-weight: 300; font-size: 20px; line-height: 135%; text-align: center; text-transform: uppercase; color: #1D1D1B; margin: 0 0 52px 0; padding: 0; border: none; width: 100%; }
 .main-title-with-link>.main-title {display: block; font-weight: 500; color: #1D1D1B; text-align: center; }
